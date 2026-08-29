@@ -68,7 +68,5 @@ HOW TO RUN
 
 
 
-"No" samples, so it may need further tuning once more live test runs
 
-are done.
  
